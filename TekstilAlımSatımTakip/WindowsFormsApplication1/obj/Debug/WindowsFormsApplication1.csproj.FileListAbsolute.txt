@@ -1,0 +1,2 @@
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Tekstil Alım Satım Takip Programı\Textil Takip_1.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Tekstil Alım Satım Takip Programı\Textil Takip_1.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
